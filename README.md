@@ -1,1 +1,4 @@
 # analyzing-IBM-Telco-Customer-Churn-dataset
+As I started learning data visualizations and pandas using python,I chose this dataset to work on and use the skills that I've learned for the last few weeks.
+JB Link is a small size telecom company located in the state of California that provides Phone and Internet services to customers on more than a 1,000 cities and 1,600 zip codes.Churn is commonly used in business to measure customer retention and assess the effectiveness of strategies in retaining a customer base and it is basically the rate at which customers or subscribers discontinue their use of a service or product within a given period.
+to summarize,as we find that more than 40% of the customers decided not to renew their contracts for a specific churn reason/category I worked on analyzing these concepts and visualizing them(more details provided within the comments i used in the jupyter notebook).
